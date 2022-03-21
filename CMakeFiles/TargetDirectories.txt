@@ -1,0 +1,3 @@
+/home/csc3050/CSC3050_P2/CMakeFiles/rebuild_cache.dir
+/home/csc3050/CSC3050_P2/CMakeFiles/edit_cache.dir
+/home/csc3050/CSC3050_P2/CMakeFiles/simulator.dir

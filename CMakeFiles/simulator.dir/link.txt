@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/simulator.dir/simulator.cpp.o CMakeFiles/simulator.dir/phase1.cpp.o CMakeFiles/simulator.dir/phase2.cpp.o -o simulator 
